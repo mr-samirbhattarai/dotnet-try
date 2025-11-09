@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 /* Console.WriteLine("Hello, World!");
-    Console.WriteLine("This is Varaible and datatype");
+    Console.WriteLine("This is Variable and datatype");
     Console.WriteLine("This is Lecture 2");
 */
 
@@ -81,7 +81,7 @@ System.Console.WriteLine("The time difference in minutes is " + timeDifference.T
 
 // Current Asia/Kathmandu time is ..., utc time is ... and time difference is ...
 System.Console.WriteLine();
-System.Console.WriteLine($"Current Asia/Kathmandu time is {timeNow}, utc time is {utcTIme} and time difference is {timeDifference} "); // interpollate
+System.Console.WriteLine($"Current Asia/Kathmandu time is {timeNow}, utc time is {utcTIme} and time difference is {timeDifference} "); // interpolate
 
 // Parsing
 String stringNum = "5";
@@ -128,3 +128,6 @@ System.Console.WriteLine(divide2);
 
 long divide3 = (long)5 / 2;
 System.Console.WriteLine(divide3);
+
+
+// londonmetid_intake_section
