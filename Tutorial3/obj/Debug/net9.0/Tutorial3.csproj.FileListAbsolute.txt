@@ -1,0 +1,15 @@
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/bin/Debug/net9.0/Tutorial3
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/bin/Debug/net9.0/Tutorial3.deps.json
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/bin/Debug/net9.0/Tutorial3.runtimeconfig.json
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/bin/Debug/net9.0/Tutorial3.dll
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/bin/Debug/net9.0/Tutorial3.pdb
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfoInputs.cache
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.AssemblyInfo.cs
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.csproj.CoreCompileInputs.cache
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.dll
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/refint/Tutorial3.dll
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.pdb
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.genruntimeconfig.cache
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/ref/Tutorial3.dll
+/Users/samirbhattarai/Programming/dotnet_folder/Tutorial3/obj/Debug/net9.0/Tutorial3.sourcelink.json
